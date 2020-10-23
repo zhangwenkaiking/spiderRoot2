@@ -27,7 +27,7 @@ func main() {
 		end   int
 	)
 
-	fmt.Println("***********欢迎小李同学***********")
+	fmt.Println("***********欢迎***********")
 	for m := 0; m <= 2; m++ {
 		fmt.Printf("***                          \n")
 	}
